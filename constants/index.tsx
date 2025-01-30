@@ -6,7 +6,7 @@ interface SidebarLink {
     imgURL: React.ReactNode;  // Replace with your own icon component
     route: string;
     label: string;
-}
+};
 
 export const sidebarLinks: SidebarLink[] = [
     {
