@@ -19,7 +19,7 @@ const LeftSideBar = () => {
             )
           })}
         </div>
-        <div className=' flex flex-col gap-3'>
+        <div className=' flex flex-col gap-2'>
             
         </div>
     </div>
