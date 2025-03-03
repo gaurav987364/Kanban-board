@@ -3,7 +3,7 @@ import { GoPeople } from "react-icons/go";
 import { CgProfile } from "react-icons/cg";
 
 interface SidebarLink {
-    imgURL: React.ReactNode;  // Replace with your own icon component
+    imgURL: React.ReactNode;  //Replace with your own icon component
     route: string;
     label: string;
 };
