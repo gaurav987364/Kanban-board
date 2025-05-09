@@ -1,9 +1,9 @@
 "use client"
-import React from 'react'
+import React from 'react';
 import { Input } from '../ui/input';
 import { BiSearch } from 'react-icons/bi';
 
-const GlobalSearch = () => {
+const GlobalSearch:React.FC = () => {
   return (
     <div className=' relative w-full max-w-[600px] max-lg:hidden'>
         <div className=' border border-gray-800/30 relative flex min-h-[56px] grow items-center gap-1 rounded-xl px-4'>

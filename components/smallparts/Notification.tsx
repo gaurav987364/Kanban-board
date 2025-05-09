@@ -1,8 +1,8 @@
-import React from 'react'
-import { Button } from '../ui/button'
-import { BellIcon } from 'lucide-react'
+import React from 'react';
+import { Button } from '../ui/button';
+import { BellIcon } from 'lucide-react';
 
-const Notification = () => {
+const Notification:React.FC = () => {
   return (
     <div>
         <Button variant="link">
